@@ -12,6 +12,8 @@
     "prettier": "2.8.4"
   },
   "dependencies": {
-    "@nuxtjs/tailwindcss": "^6.6.0"
+    "@nuxt/image-edge": "^1.0.0-27991759.1a5eea1",
+    "@nuxtjs/tailwindcss": "^6.6.0",
+    "@vueuse/nuxt": "^9.13.0"
   }
 }
